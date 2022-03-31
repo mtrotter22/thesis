@@ -1,0 +1,6 @@
+cer,thal,neo,directP,indirectBootLLCI,indirectBootULCI,a_pval,b_pval,linmod_pval
+Left_VIIIa,Right_VLa,R_tpjMean,0.039173,-5.00E-06,-1.00E-06,0.004011,0.029769,0.30366311
+Left_VIIIa,Right_VLp,R_tpjMean,0.03945,-5.00E-06,-1.00E-06,0.003692,0.030833,0.30366311
+Left_VIIIb,Right_CM,R_tpjMean,0.041942,-8.00E-06,-1.00E-06,0.00603,0.008283,0.483226226
+Left_Dentate,Right_PuL,R_tpjMean,0.047376,3.00E-06,2.00E-05,0.001444,0.05365,0.295635807
+Left_Interposed,Right_Pf,R_postCingMean,0.046684,-5.00E-05,-1.00E-06,0.008537,0.045135,0.002430442

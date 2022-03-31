@@ -1,0 +1,4 @@
+cer,thal,neo,directP,indirectBootLLCI,indirectBootULCI,a_pval,b_pval,linmod_pval
+Right_Interposed,Left_VLa,L_somatoMean,0.000533,4.00E-06,7.80E-05,0.008119,0.01438,0.010028059
+Right_Interposed,Left_VAmc,L_somatoMean,0.001747,2.00E-06,6.30E-05,0.015055,0.059789,0.010028059
+Right_Interposed,Left_VA,L_somatoMean,0.000786,4.00E-06,6.80E-05,0.01993,0.02015,0.010028059
